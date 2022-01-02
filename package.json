@@ -1,0 +1,19 @@
+{
+  "name": "bin",
+  "version": "1.0.0",
+  "description": "🗓️ Authenticated file storage w/ folders, bookmarks & more!",
+  "repository": "https://github.com/trustedmercury/bin.git",
+  "author": "Kevin Thomas <kevin.jt2007@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/api",
+    "packages/web"
+  ],
+  "scripts": {
+    "dev:api": "yarn workspace api dev",
+    "dev:web": "yarn workspace web dev",
+    "start:api": "yarn workspace api start",
+    "start:web": "yarn workspace web start"
+  }
+}
