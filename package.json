@@ -1,7 +1,7 @@
 {
-  "name": "bin",
+  "name": "NAME",
   "version": "1.0.0",
-  "description": "🗓️ Authenticated file storage w/ folders, bookmarks & more!",
+  "description": "🗓️ TypeScript monorepo with Fastify, NextJS, Fastify and TailwindCSS",
   "repository": "https://github.com/trustedmercury/bin.git",
   "author": "Kevin Thomas <kevin.jt2007@gmail.com>",
   "license": "MIT",
